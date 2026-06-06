@@ -1,0 +1,15 @@
+ultralytics
+opencv-python
+streamlit
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+numpy
+pandas
+pillow
+matplotlib
+python-multipart
+pytest
+pytest-cov
+tqdm
