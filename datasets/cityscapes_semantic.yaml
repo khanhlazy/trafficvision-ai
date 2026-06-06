@@ -1,0 +1,10 @@
+path: datasets/processed/cityscapes_road
+train_images: images/train
+val_images: images/val
+train_masks: masks/train
+val_masks: masks/val
+num_classes: 2
+classes:
+  0: background
+  1: road
+expected_weight_path: models/weights/deeplabv3plus_road.pth

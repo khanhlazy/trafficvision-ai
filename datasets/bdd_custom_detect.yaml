@@ -1,0 +1,13 @@
+path: datasets/processed/bdd_custom_detect
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: person
+  1: car
+  2: motorcycle
+  3: bus
+  4: truck
+  5: traffic light
+  6: traffic sign
